@@ -1,0 +1,2 @@
+# extends
+Just training (inheritance)
